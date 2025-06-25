@@ -1,0 +1,7 @@
+
+title: "Python Учебник"
+author: "Учител и ученици"
+logo: ""
+html:
+  extra_css:
+    - custom.css

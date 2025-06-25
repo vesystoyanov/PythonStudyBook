@@ -1,0 +1,16 @@
+
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+.sidebar-header {
+    background-color: #f8f9fa;
+}
+
+.navbar {
+    background-color: #343a40 !important;
+}
+
+.navbar a {
+    color: #ffffff !important;
+}

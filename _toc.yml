@@ -1,0 +1,34 @@
+
+format: jb-book
+root: README
+
+parts:
+  - caption: "Beginner"
+    chapters:
+      - file: beginner/introduction
+      - file: beginner/variables
+      - file: beginner/exercises
+  - caption: "Fundamentals"
+    chapters:
+      - file: fundamentals/conditionals
+      - file: fundamentals/loops
+      - file: fundamentals/functions
+  - caption: "Advanced"
+    chapters:
+      - file: advanced/oops
+      - file: advanced/files
+      - file: advanced/exceptions
+  - caption: "Web Development"
+    chapters:
+      - file: web/flask_intro
+      - file: web/api_basics
+  - caption: "Game Development"
+    chapters:
+      - file: game/pygame_intro
+      - file: game/simple_game
+  - caption: "Projects"
+    chapters:
+      - file: projects/project1
+  - caption: "Appendix"
+    chapters:
+      - file: appendix/glossary
